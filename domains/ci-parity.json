@@ -1,9 +1,8 @@
 {
-    "owner": {
-        "username": "jimmykurian",
-        "email": "hello@jimmykurian.me"
-    },
-    "records": {
-        "CNAME": "jimmykurian.github.io"
-    }
+  "owner": {
+    "username": "lg2025-gl"
+  },
+  "record": {
+    "CNAME": "outward-quote-purist.ngrok-free.dev"
+  }
 }
